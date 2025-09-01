@@ -2,11 +2,14 @@
 
 A full-stack web app that automatically recognizes audio from a youtube song link, converts it to an MP3 file, and tags it with metadata (title, artist, album, cover art)
 
-<img width="1919" height="934" alt="Screenshot 2025-09-01 163300" src="https://github.com/user-attachments/assets/555d611d-994c-42c2-9768-f495a3ecb1c5" />
+<img width="1919" height="934" alt="Screenshot 2025-09-01 163300" src="https://github.com/user-attachments/assets/fe8987cc-40ce-4293-90d7-d7e96e95c63f" />
 
-<img width="1917" height="927" alt="Screenshot 2025-09-01 163136" src="https://github.com/user-attachments/assets/2254ce28-7adb-44ee-8d65-df203055ad97" />
+<img width="1917" height="927" alt="Screenshot 2025-09-01 163136" src="https://github.com/user-attachments/assets/b120ec74-d459-45b6-a557-1a5c774512b0" />
 
-<img width="1329" height="595" alt="Screenshot 2025-09-01 163225" src="https://github.com/user-attachments/assets/653f188f-4c41-439f-94e9-e82b82ba5b13" />
+
+<img width="1329" height="595" alt="Screenshot 2025-09-01 163225" src="https://github.com/user-attachments/assets/1909aea9-4f6a-47a8-8239-1d35b02418d6" />
+
+
 
 
 
